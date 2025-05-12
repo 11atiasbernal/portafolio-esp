@@ -1,2 +1,2 @@
 # portfolio-esp
-# enlaces a los proyectos mostrados en el protafolio
+enlaces a los proyectos mostrados en el protafolio
